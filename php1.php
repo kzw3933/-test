@@ -1,3 +1,2 @@
-<?php
-phpinfo();
-11122
+成绩jkj.j
+
